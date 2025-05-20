@@ -1,0 +1,10 @@
+DATABASE_FILE = "/var/lib/unbound/blacklist.db"
+BLOCK_DOMAIN = "xblock.gmedia.id"
+BLOCK_IP = "103.217.209.188"
+BLOCK_IP6 = "2001:db8::188"
+UPSTREAM_DNS = "127.0.0.1"
+UPSTREAM_DNS6 = "::1"
+UPSTREAM_PORT = 5353
+LISTEN_PORT = 53
+ACL_FILE = "/etc/dnsproxy/acl.conf"
+LOG_FILE = "/var/log/dns_proxy.log"

@@ -1,0 +1,5 @@
+dnslib
+watchdog
+requests
+urllib3
+multiprocessing-logging
